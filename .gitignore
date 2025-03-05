@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.log
+echo ".vscode/
+.AppData/
+*.lnk
+*.DAT
+*.ipynb_checkpoints/
+*.json" >> .gitignore
+.vscode/
+.DS_Store
+Thumbs.db
